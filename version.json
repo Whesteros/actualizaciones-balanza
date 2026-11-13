@@ -1,5 +1,17 @@
 {
-  "version": "1.0.0",
-  "url_exe": "https://github.com/Whesteros/actualizaciones-balance/releases/download/v1.0.0/SistemaBalanza.exe",
-  "notas": "Versión inicial en producción"
+  "balanza": {
+    "version": "1.0.0",
+    "url_exe": "https://github.com/Whesteros/actualizaciones-balance/releases/download/v1.0.0/SistemaBalanza.exe",
+    "notas": "Versión inicial en producción"
+  },
+  "servidor": {
+    "version": "1.0.0",
+    "url_exe": "https://github.com/Whesteros/actualizaciones-balance/releases/download/v1.0.0/ServidorBalanza.exe",
+    "notas": "Versión inicial en producción"
+  },
+  "usuarios": {
+    "version": "1.0.0",
+    "url_exe": "https://github.com/Whesteros/actualizaciones-balance/releases/download/v1.0.0/GestionUsuarios.exe",
+    "notas": "Versión inicial en producción"
+  }
 }
